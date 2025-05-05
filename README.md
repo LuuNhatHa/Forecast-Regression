@@ -17,3 +17,11 @@ Microsoft Excel – used for:
 - Built predictive regression models using Excel to estimate annual airport passenger numbers.
 - Found a strong correlation between historical trends and future passenger traffic
 - Demonstrated Excel’s capability to perform effective regression analysis without advanced programming.
+
+# Overview
+- Univariate regression
+![image](https://github.com/user-attachments/assets/0327efac-6beb-4f9f-a567-723c4252cde9)
+- Multivariate regression
+![image](https://github.com/user-attachments/assets/8354d438-0972-450c-9347-aff4430aa354)
+
+
